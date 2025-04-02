@@ -38,4 +38,8 @@ h1 {
     margin-bottom: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-ya
+nav {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
