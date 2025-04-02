@@ -18,8 +18,10 @@ body {
 button {
     cursor: pointer;
     border: none;
-    color: slategray;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 10px;
+    border-radius: 5px;
 }
 
 title {
